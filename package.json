@@ -52,7 +52,7 @@
     "minio": "^7.1.0",
     "moment": "^2.29.4",
     "node-gyp": "^9.3.1",
-    "nodemailer": "^6.6.3",
+    "nodemailer": "^6.9.2",
     "os": "^0.1.2",
     "page": "^1.11.6",
     "papaparse": "^5.3.1",
