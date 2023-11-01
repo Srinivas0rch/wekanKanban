@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 ubuntu:23.04 as wekan
+FROM --platform=linux/amd64 ubuntu:mantic-20231011 as wekan
 LABEL maintainer="wekan"
 
 # 2022-09-04:
